@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-# React + Vite
+Note: Please make sure that when you commit anything to GitHub, you provide an appropriate commit message. Also, ensure that you create your own branch and push your changes to that branch, not directly to the main branch.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run the project use command : npm run dev
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# design-1.github
->>>>>>> 91803ee765a8c302e107e49965cc401f80837516
+All the necessary Tailwind files, Toastify, and React Router DOM are already installed.
